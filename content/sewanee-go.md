@@ -1,8 +1,6 @@
 ---
-title: 'Title of the page'
-description: 'meta description of the page'
+title: 'Home'
+description: 'Welcome to Sewanee Go'
 ---
 
 # Test
-
-HEHEHEHHE
